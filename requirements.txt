@@ -1,2 +1,4 @@
 gunicorn
 requests
+urllib3
+bs4
