@@ -1,4 +1,6 @@
+django
 gunicorn
+django-heroku
 requests
 urllib3
 bs4
