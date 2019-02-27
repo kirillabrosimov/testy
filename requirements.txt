@@ -1,2 +1,4 @@
-
-gunicorn==19.7.1
+django
+gunicorn
+django-heroku
+requests
