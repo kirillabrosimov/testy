@@ -1,1 +1,1 @@
-web: gunicorn testy.wsgi --log-file -
+web: gunicorn MVE.py --log-file -
